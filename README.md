@@ -108,11 +108,9 @@ _Add a few sample prediction images or confusion matrix plots here_
 - Kaggle Contributors
 - TensorFlow and Keras Libraries
 
----
 
-## 📬 Contact
-If you have any questions or suggestions, feel free to contact me at:
-**your.email@example.com**
+
+
 
 ---
 
