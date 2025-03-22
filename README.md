@@ -1,4 +1,4 @@
-# 🌪️ Hurricane Disaster Damage Assessment using Deep Learning
+# 🌪️Disaster-Management-Relief using Deep Learning
 
 This project focuses on the detection and classification of hurricane-induced building damage using satellite imagery. Deep learning techniques, including transfer learning and custom CNN architectures, are used to identify and classify damaged vs. undamaged areas from aerial images.
 
