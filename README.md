@@ -98,8 +98,7 @@ scikit-learn
 
 ---
 
-## 📸 Sample Outputs (Optional)
-_Add a few sample prediction images or confusion matrix plots here_
+
 
 ---
 
